@@ -2,7 +2,7 @@
 - 👀 I’m interested in Aircrafts and UAVs
 - 🌱 I’m currently learning Battery performance estimaation 
 - 💞️ I’m looking to collaborate on aircraft control system
-- 📫 How to reach me @amanshah1024@
+- 📫 How to reach me @amanshah1024@gmail.com
 
 
 <!---
